@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.para1 .para3{
+.para1,.para3{
   background-color: #eee;
   color: #00f;
 }
